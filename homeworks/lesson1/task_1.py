@@ -1,0 +1,43 @@
+# Створіть 6 змінних з будь-якими значенням
+
+var_1 = 'asdhgasj1'
+var_2 = "asdasd"
+var_3 = 123
+var_4 = 234
+var_5 = True
+var_6 = False
+
+# Робота з числами
+# Умова:
+#
+# Створіть дві змінні, a та b, та присвойте їм будь-які числові значення (цілі або дробові).
+# Обчисліть їх суму, різницю і тд.
+# Виведіть результати кожної операції на екран з відповідними поясненнями.
+
+a = 100
+b = 20
+
+sum = a + b
+print(sum)
+minus = a - b
+print(minus)
+multiply = a * b
+print(multiply)
+divide = a / b
+print(divide)
+int_divide = a // b
+print(int_divide)
+
+# Робота з рядками (Strings)
+# Умова:
+#
+# Створіть змінну first_name та присвойте їй ваше ім'я.
+# Створіть змінну last_name та присвойте їй ваше прізвище.
+# Створіть змінну full_name, об'єднавши (конкатенувавши) ім'я та прізвище через пробіл.
+# Виведіть full_name на екран.
+first_name = "Sergii"
+last_name = "Miguel"
+full_name = first_name + " " + last_name
+
+print(full_name)
+
